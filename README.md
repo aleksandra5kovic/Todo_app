@@ -1,3 +1,3 @@
 # Todo_app
 
-https://chestnut-celsius.glitch.me
+https://aleksandra5kovic.github.io/Todo_app/
