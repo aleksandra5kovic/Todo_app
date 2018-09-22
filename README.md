@@ -1,3 +1,4 @@
-# Todo_app
+# todo_app
+Functional replica of the TodoMVC web app   .   Vanilla JavaScript, HTML
 
-https://aleksandra5kovic.github.io/Todo_app/
+Live Demo: https://aleksandra5kovic.github.io/todo_app/
